@@ -4,7 +4,7 @@ import java.util.Random;
 public class Learning {
 public static void main(String args[])
 {
-	int x=20;
+	int x=50;
 	int y=0;
 	int z;
 	
